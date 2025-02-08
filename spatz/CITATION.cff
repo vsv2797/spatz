@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Piter"
+  given-names: "Andreas"
+  orcid: "https://orcid.org/0000-0002-5566-3851"
+- family-names: "Haghshenas Haghighi"
+  given-names: "Mahmud"
+  orcid: "https://orcid.org/0000-0002-2512-3934"
+- family-names: "Motagh"
+  given-names: "Mahdi"
+  orcid: "https://orcid.org/0000-0001-7434-3696"
+title: "SpaTZ - SPAtioTemporal Selection of Scatterers"
+version: 0.1.0
+doi: ...will come upon public relase...
+date-released: 2024-11-14
+url: "https://github.com/Andreas-Piter/SpaTZ"
